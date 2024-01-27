@@ -20,5 +20,4 @@ To use the program, simply compile the 'NQueen.java' file and run the resulting 
 The time complexity of the backtracking algorithm is O(N^2). The space complexity is O(N^2).
 
 # References
-1.Wikipedia - Eight queens puzzle
-2.GeeksforGeeks - N-Queen Problem
+Wikipedia - Eight queens puzzle & GeeksforGeeks - N-Queen Problem
