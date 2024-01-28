@@ -58,7 +58,6 @@ public class NQueen {
             j--;
         }
         //upper left
-        //lower left
         i = row;
         j = colum;
         while(i>=0 && j>=0) {
